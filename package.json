@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7"
+  },
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "This is an user authentication system using nodejs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Prabesh Parajulee",
+  "license": "ISC"
+}

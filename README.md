@@ -1,0 +1,1 @@
+A user authentication application built with Node.js and MongoDB, featuring secure password hashing and comparison using bcrypt.
